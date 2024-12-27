@@ -56,23 +56,8 @@ This project is a front-end clone of the Spotify Web Player. It is built with HT
 ---
 
 ## Screenshots
+<img width="1411" alt="Screenshot 2024-12-26 at 9 55 55 PM" src="https://github.com/user-attachments/assets/f0f9c73b-bd46-47a1-ba76-5a68f20a7053" />
 
-### 1. Sidebar Navigation
-![Sidebar Navigation](./screenshots/sidebar.png)
-
-### 2. Main Content - Recently Played
-![Recently Played](./screenshots/recently-played.png)
-
-### 3. Main Content - Trending Now Near You
-![Trending Now Near You](./screenshots/trending-now.png)
-
-### 4. Featured Charts
-![Featured Charts](./screenshots/featured-charts.png)
-
-### 5. Music Player
-![Music Player](./screenshots/music-player.png)
-
----
 
 ## Folder Structure
 ```
@@ -98,28 +83,7 @@ spotify-web-clone/
 |   |-- music-player.png
 ```
 
----
 
-## Future Enhancements
-
-- Add functionality to the music player using JavaScript.
-- Include additional sections like "Top Podcasts" or "Recommended for You."
-- Improve animations and transitions for better user experience.
-- Optimize for accessibility and keyboard navigation.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Acknowledgements
-
-- Inspired by Spotify's Web Player design.
-- Icons by [FontAwesome](https://fontawesome.com).
-- Fonts by [Google Fonts](https://fonts.google.com).
 
 ---
 
