@@ -43,33 +43,5 @@ This project is a front-end clone of the Spotify Web Player. It is built with HT
 <img width="1411" alt="Screenshot 2024-12-26 at 9 55 55 PM" src="https://github.com/user-attachments/assets/f0f9c73b-bd46-47a1-ba76-5a68f20a7053" />
 
 
-## Folder Structure
-```
-spotify-web-clone/
-|-- index.html
-|-- Style.css
-|-- images/
-|   |-- logo.png
-|   |-- library_icon.png
-|   |-- card1img.jpeg
-|   |-- card2img.jpeg
-|   |-- card3img.jpeg
-|   |-- card4img.jpeg
-|   |-- card5img.jpeg
-|   |-- card6img.jpeg
-|   |-- card7img.jpeg
-|   |-- card8img.jpeg
-|-- screenshots/
-|   |-- sidebar.png
-|   |-- recently-played.png
-|   |-- trending-now.png
-|   |-- featured-charts.png
-|   |-- music-player.png
-```
 
-
-
----
-
-Feel free to contribute by opening issues or submitting pull requests! Thank you for checking out this project.
 
