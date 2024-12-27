@@ -39,22 +39,6 @@ This project is a front-end clone of the Spotify Web Player. It is built with HT
 
 ---
 
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spotify-web-clone.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd spotify-web-clone
-   ```
-
-3. Open the `index.html` file in your browser to view the project.
-
----
-
 ## Screenshots
 <img width="1411" alt="Screenshot 2024-12-26 at 9 55 55 PM" src="https://github.com/user-attachments/assets/f0f9c73b-bd46-47a1-ba76-5a68f20a7053" />
 
