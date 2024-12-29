@@ -3,6 +3,8 @@
 This project is a front-end clone of the Spotify Web Player. It is built with HTML, CSS, and FontAwesome icons, and it aims to replicate the design and functionality of Spotify's web interface for showcasing music playlists, featured charts, and a music player.
 
 ---
+## Preview
+<img width="1411" alt="Screenshot 2024-12-26 at 9 55 55 PM" src="https://github.com/user-attachments/assets/f0f9c73b-bd46-47a1-ba76-5a68f20a7053" />
 
 ## Features
 
@@ -39,8 +41,6 @@ This project is a front-end clone of the Spotify Web Player. It is built with HT
 
 ---
 
-## Screenshots
-<img width="1411" alt="Screenshot 2024-12-26 at 9 55 55 PM" src="https://github.com/user-attachments/assets/f0f9c73b-bd46-47a1-ba76-5a68f20a7053" />
 
 
 
